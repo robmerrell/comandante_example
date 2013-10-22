@@ -1,0 +1,1 @@
+An example app that demonstrates how to use [Comandante](http://github.com/robmerrell/comandante)
